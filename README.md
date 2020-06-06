@@ -1,0 +1,2 @@
+# trady
+trady-plugin
